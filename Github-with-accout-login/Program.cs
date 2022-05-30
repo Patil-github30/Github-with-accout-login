@@ -7,6 +7,11 @@ namespace Github_with_accout_login
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("new line added");
+            
+            static void Add(int num1,int num2)
+            {
+                Console.WriteLine(num1 + num2);            }
         }
     }
 }
