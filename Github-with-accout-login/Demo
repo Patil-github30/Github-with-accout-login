@@ -1,0 +1,7 @@
+class Demo
+{
+static void Main()
+{
+Console.WriteLine("Hello");
+}
+}
